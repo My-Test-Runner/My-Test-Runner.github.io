@@ -13,9 +13,9 @@ To resolve the error, run the following query:
 
 Error 02
 ---------
-- Deployment 'a813j00000000jhAAE': Changes detected in target branch 'uat' after creation of the promotion branch 'promotion/P08316- DeployP08316UAT2', auto merge successfully performed to incorporate the last changes to the deployment.
+- [Deployment 'a813j00000000jhAAE': Changes detected in target branch 'uat' after creation of the promotion branch     'promotion/P08316- DeployP08316UAT2', auto merge successfully performed to incorporate the last changes to the deployment.
 - [FlowDefinition PolicyCreatePolicyStatusChangeEvent] Flow Definition will be used to Activate the Flow.
-- [FieldSet Quote.vlocity_ins__QuoteDetail] In field: IQC1PolicyId_c no CustomField named Quote.IQC1PolicyId_c found [MatchingRule Account. DuplicateBusinessAccountRule] Change the matching rule status separately from other changes.
+- [FieldSet Quote.vlocity_ins__QuoteDetail] In field: IQC1PolicyId_c no CustomField named Quote.IQC1PolicyId_c found   [MatchingRule Account. DuplicateBusinessAccountRule] Change the matching rule status separately from other changes.
 - [MatchingRule PersonAccount. Duplicate PersonAccountRule] The filter logic 1 AND 2 AND 3 AND 4 AND 5 AND 6 AND 7 AND 8 AND 9 AND 10 is invalid.
 - [DuplicateRule Account. BusinessAccount DuplicateCheck] The filter logic 1 AND 2 AND 3 AND 4 AND 5 AND 6 AND 7 AND 8 AND 9 AND 10 is invalid.
 - [DuplicateRule PersonAccount. PersonAccount] The filter logic 1 AND 2 AND 3 AND 4 AND 5 AND 6 AND 7 AND 8 AND 9 AND 10 is invalid.
